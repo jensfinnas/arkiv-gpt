@@ -1,0 +1,22 @@
+﻿REDAKTIONELLT 9 sidor
+
+ARTIKEL:			STORLEK	SKRIBENT	STATUS
+Hemma hos SOLLE		2		Fredrik		Bilder finns text finns på fredag
+Hemma hos K-fors		1		Fredrik	Text och bild finns på fredag
+Notiser				1		Anette		Text finns
+Hemmastudier 		0,5		Fredrik
+Träakademin			0,5		Åsa
+K-Bygg			0,5		Fredrik			
+Golvslipare			0,5		Anette		OK	
+Ledare			0,33		Anette		OK (Bild på Sandra)
+Bodéns			0,33		Anette		OK
+IngBritt Hedin			0,33		Anette		Ok
+EcoBlast			0,33		Anette		OK
+Micke Nässen			0,33		Åsa		OK
+Smidesutbildning		0,33		Åsa		OK
+Kamfjord			0,33		Fredrik		Text och bild på fredag
+Kramfors Trädgård		0,33		Åsa		Text finns
+Ådalens TV			0,33		Fredrik
+
+
+Summa 9	

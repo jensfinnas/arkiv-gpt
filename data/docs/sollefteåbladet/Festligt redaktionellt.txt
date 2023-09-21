@@ -1,0 +1,20 @@
+﻿Ettan			1
+Årskrönikor		1
+Hur firar du jul? Emil	1
+Hur firar du jul) Frida	1
+Nästa år		0,66
+Sommelier		0,66
+Boktips		0,5
+Speltips		0,5
+Lokala drycker	0,5
+Mat - förrätt		0,5
+Mat - varmrätt		0,5
+Mat - Dessert		0,5
+Mat - Drinkar		0,5
+Lokal Musik		0,5
+Corona aktiviteter	0,5
+Rensa hemma		0,5
+Ledare			0,33
+Pyssel			0,33
+
+Summa:	11	

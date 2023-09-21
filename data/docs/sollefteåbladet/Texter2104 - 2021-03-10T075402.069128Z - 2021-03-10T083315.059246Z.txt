@@ -1,0 +1,26 @@
+﻿TEXTER:
+
+Evelina mötet		1
+Sport			1
+Notiser			1
+Jacke			0,5
+Leader			0,5
+Barnmorskor		0,5
+Bibliotek		0,5
+Klädföretag		0,5
+
+TEMA:
+Nenne Gradin		0,5
+Gunillas kiosk		0,33
+Mari massage		0,33
+
+PRO			0,33
+Matavfall		0,33
+Månadens UF		0,33
+Covidtest		0,33
+
+
+SUMMA		8
+
+
+KB

@@ -1,0 +1,35 @@
+﻿SB
+Sport 		1
+Mötet		1
+Notiser		1
+Jacke		0,5
+Snöröjare	0,5
+Vaccinering	0,5
+Nisse		0,5
+Contrado	0,5
+Snöläggning	0,5
+Sportlov	0,33
+Stjärnkväll	0,33
+Vinterbad	0,33
+Diana		0,33
+Skoloftet	0,33
+Synsam	0,33
+
+Summa	8
+
+
+
+KB:
+Mötet			1
+Sport			1
+Jacke			0,5
+Snöröjare		0,5
+Beredskap		0,5
+Elpress		0,5
+Vaccinering		0,5
+Sportlov		0,5
+HKFM			0,33
+Kramfors Lärcenter	0,33
+Investeringar		0,33
+
+Summa		6 sidor

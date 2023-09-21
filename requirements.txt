@@ -1,0 +1,4 @@
+openai==0.28.0
+llama-index==0.8.29.post1
+streamlit==1.26.0
+python-dotenv
