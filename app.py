@@ -7,7 +7,7 @@ from llama_index.llms import OpenAI
 import openai
 from settings import OPENAI_API_KEY
 
-DOC_DIR = 'data/docs/sollefteåbladet/sample'
+DOC_DIR = 'data/docs/sollefteåbladet'
 INDEX_STORAGE = "data/vector_storage/sollefteåbladet-index"
 OPENAI_MODEL = "gpt-3.5-turbo" # "gpt-4"
 
